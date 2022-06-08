@@ -1,0 +1,20 @@
+[
+   {
+      "title": "Remera",
+      "price": 900,
+      "thumbnail": "https://deliverind.com.ar/producto/remera-basic/",
+      "id": 1
+   },
+   {
+      "title": "Remera",
+      "price": 900,
+      "thumbnail": "https://deliverind.com.ar/producto/remera-basic/",
+      "id": 2
+   },
+   {
+      "title": "Remera",
+      "price": 900,
+      "thumbnail": "https://deliverind.com.ar/producto/remera-basic/",
+      "id": 3
+   }
+]
